@@ -1,18 +1,10 @@
 
-#experiment2
+# Experiment 1c
 
+## Aim of the Experiment
+To implement CRC
 
+### step by step procedure of experiment
 
-##AIM:
- 
-
-##PROCEDURE:
-1
-2
-3
-
-
-#output:
-
-
-![output](Crc.png)
+### Output
+![Output](Crc.png)
