@@ -1,5 +1,4 @@
 
-# Experiment 1c
 
 ## Aim of the Experiment
 To implement CRC
