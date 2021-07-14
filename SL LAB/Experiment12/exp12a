@@ -1,0 +1,10 @@
+proc mult {} {
+    set a 10
+    
+        puts "Multiplication table of $a";
+        for {set b 1} {$b <= 10} {incr b} {
+            puts "$a x $b = [expr $a * $b]"
+        }
+    
+}
+puts [mult];
